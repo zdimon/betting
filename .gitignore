@@ -1,0 +1,6 @@
+*.pyc
+venv
+node_modules
+__pycache__
+dj_prj/dj_prj/local.py
+.vscode
